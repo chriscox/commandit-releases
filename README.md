@@ -30,7 +30,7 @@ The DMG is **signed with a Developer ID certificate and notarized by Apple**, so
 ## System Requirements
 
 - **macOS 15 (Sequoia) or later**
-- **Apple Silicon** (M1 or newer)
+- **Apple Silicon recommended** (M1 or newer) — required if you want to use the on-device AI model. The core app, iCloud sync, and BYOK cloud AI (Claude / OpenAI) work on Intel Macs running macOS 15+.
 - ~150 MB disk space (more if you opt in to downloading the on-device AI model)
 
 ## Auto-Updates
