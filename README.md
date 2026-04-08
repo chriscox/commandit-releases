@@ -2,8 +2,8 @@
 
 **An AI-powered command palette for developers.**
 
-[![Latest version](https://img.shields.io/endpoint?url=https%3A%2F%2Fcommandit.ai%2Fbadges.json&query=%24.version.message&label=version&color=green)](https://github.com/chriscox/commandit-releases/releases/latest)
-[![macOS](https://img.shields.io/endpoint?url=https%3A%2F%2Fcommandit.ai%2Fbadges.json&query=%24.macOS.message&label=macOS&color=blue)](#system-requirements)
+[![Latest version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcommandit.ai%2Fbadges.json&query=%24.version.message&label=version&color=green)](https://github.com/chriscox/commandit-releases/releases/latest)
+[![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcommandit.ai%2Fbadges.json&query=%24.macOS.message&label=macOS&color=blue)](#system-requirements)
 [![Downloads](https://img.shields.io/github/downloads/chriscox/commandit-releases/total?color=brightgreen)](https://github.com/chriscox/commandit-releases/releases)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
