@@ -9,13 +9,13 @@
 
 CommandIt lives one keystroke away. Hit `⌃Space`, search your snippets, fill in arguments, and paste straight into whatever app you're working in. It runs entirely on your Mac — your snippets stay local in SQLite, search is instant, and AI features are available on-device or via your own API key.
 
-> 🌐 Visit **[commandit.ai](https://commandit.ai)** for the full feature tour, screenshots, and documentation.
+> Visit **[commandit.ai](https://commandit.ai)** for the full feature tour, screenshots, and documentation.
 
 ---
 
 ## Download
 
-➡️ **[Download the latest release](https://github.com/chriscox/commandit-releases/releases/latest)**
+**[Download the latest release](https://github.com/chriscox/commandit-releases/releases/latest)**
 
 The DMG is **signed with a Developer ID certificate and notarized by Apple**, so macOS Gatekeeper will accept it on first launch — no right-click workarounds required.
 
@@ -53,9 +53,9 @@ You should see `accepted` and `source=Notarized Developer ID`.
 
 ## Links
 
-- 🌐 **Website:** [commandit.ai](https://commandit.ai)
-- 📚 **Help & Documentation:** [commandit.ai/help](https://commandit.ai/help)
-- 💬 **Support:** [commandit.ai](https://commandit.ai)
+- **Website:** [commandit.ai](https://commandit.ai)
+- **Help & Documentation:** [commandit.ai/help](https://commandit.ai/help)
+- **Support:** [commandit.ai](https://commandit.ai)
 
 ## License
 
