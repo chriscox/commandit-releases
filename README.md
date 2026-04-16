@@ -4,7 +4,6 @@
 
 [![Latest version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcommandit.ai%2Fbadges.json&query=%24.version.message&label=version&color=green)](https://github.com/chriscox/commandit-releases/releases/latest)
 [![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcommandit.ai%2Fbadges.json&query=%24.macOS.message&label=macOS&color=blue)](#system-requirements)
-[![Downloads](https://img.shields.io/github/downloads/chriscox/commandit-releases/total?color=brightgreen)](https://github.com/chriscox/commandit-releases/releases)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 CommandIt lives one keystroke away. Hit `⌃Space`, search your snippets, fill in arguments, and paste straight into whatever app you're working in. It runs entirely on your Mac — your snippets stay local in SQLite, search is instant, and AI features are available on-device or via your own API key.
